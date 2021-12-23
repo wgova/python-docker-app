@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 3,
+  "agentName": "test-app",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/u6rJG7g9UhiRvlJgWKtUEHKPr5QL917a3tZ366YBNiXHOLaxiN",
+  "gitHubUrl": "https://github.com/wgova/python-docker-app",
+  "workFolder": "_work"
+}
